@@ -1,0 +1,54 @@
+
+.hidden-on-small {
+        background-color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 15px;
+        padding: 10px 20px;
+        padding-bottom: 7px;
+    }
+
+    .hidden-on-small {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        /* Make the list items display in a row */
+    }
+
+    .hidden-on-small {
+        margin-right: 20px;
+    }
+
+    .hidden-on-small {
+        text-decoration: none;
+        color: rgb(97, 18, 97);
+        font-weight: bold;
+    }
+
+    .hidden-on-small {
+        position: relative;
+        padding: 10px 0;
+        transition: transform 0.3s ease;
+    }
+
+    .hidden-on-small {
+
+        /* Set your desired text color */
+        text-decoration: none;
+        transition: color 0.3s;
+        /* Add a smooth color transition */
+    }
+
+    .hidden-on-small {
+        border-bottom: 1px solid #ff2d2d;
+        transform: scale(1.1);
+        /* Add a green border on hover (Bootstrap "success" color) */
+    }
+
+    .hidden-on-small {
+        color: #ff4800;
+
+        /* Change the text color on hover to match the border color */
+    }
